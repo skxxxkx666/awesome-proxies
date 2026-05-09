@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skxxxkx666.github.io/awesome-proxies/sitemap.xml
