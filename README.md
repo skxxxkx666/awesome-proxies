@@ -38,6 +38,7 @@
 | IVPN | 30+ 国家 | WireGuard、OpenVPN | 月付/年付 | 透明度报告，隐私审计，多跳 VPN | [ivpn.net](https://ivpn.net) |
 | OlogyTV | 全球 | Shadowsocks、Trojan、VLESS | 月付/流量包 | 综合型机场，流媒体解锁能力突出 | [ologytv.com](https://ologytv.com) |
 | PIA (Private Internet Access) | 90+ 国家 | WireGuard、OpenVPN | 月付/年付/三年付 | 开源客户端，MACE 广告拦截，老牌服务 | [privateinternetaccess.com](https://privateinternetaccess.com) |
+| 月兔 VPN（Tsuki） | 香港/新加坡/印尼/日本/美国 | Hysteria2（UDP） | 30/90/390 天，12 元/30 天起 | 公网中转，代理订阅，入门每 30 天 100G，第三方客户端 iOS Shadowrocket/Hiddify、Android Clash Meta、Win/Mac Clash Verge | [buddahs-temptation.win/tsuki](https://buddahs-temptation.win/tsuki) |
 
 > **说明**：表中机场类服务（如 Clash.Mom、Nexitally、FreedomPort 等）主要面向有科学上网/代理需求的用户。VPN 类服务面向全球用户，功能更全面（含隐私保护、广告拦截等）。请根据自身需求与当地法律法规合规使用。
 
